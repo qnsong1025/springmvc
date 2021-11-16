@@ -14,5 +14,10 @@ git push origin 本地分支名称:远程分支名称
 homecompute add message
 
 
+
 ----mater 分支修改内容
 master分支修改对应内容，测试冲突
+
+-----2021-11-16分支增加内容，测试冲突操作
+2021-11-16增加分支，测试冲突
+
