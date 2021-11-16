@@ -12,3 +12,7 @@ git push origin 本地分支名称:远程分支名称
 
 -----home computer
 homecompute add message
+
+
+----mater 分支修改内容
+master分支修改对应内容，测试冲突
